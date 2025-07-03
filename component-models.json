@@ -242,7 +242,7 @@
     ]
   },
   {
-    "id": "loginForm",
+    "id": "loginform",
     "fields": [
       {
         "component": "text",
