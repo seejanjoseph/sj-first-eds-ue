@@ -228,10 +228,43 @@
        {
          "component": "text",
          "valueType": "string",
-         "name": "author",
-         "label": "Author",
+         "name": "Username",
+         "label": "Username",
          "value": ""
-       }
-     ]
+       },
+       {
+        "component": "text",
+        "valueType": "string",
+        "name": "password",
+        "label": "password",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "loginForm",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "usernameLabel",
+        "label": "Username label",
+        "value": ""
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "passwordLabel",
+        "label": "password label",
+        "value": ""
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "loginButtonLabel",
+        "label": "login button label",
+        "value": ""
+      }
+    ]
   }
 ]
