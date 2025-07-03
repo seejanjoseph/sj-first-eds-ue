@@ -247,21 +247,21 @@
       {
         "component": "text",
         "valueType": "string",
-        "name": "usernameLabel",
+        "name": "username-label",
         "label": "Username label",
         "value": ""
       },
       {
         "component": "text",
         "valueType": "string",
-        "name": "passwordLabel",
+        "name": "password-label",
         "label": "password label",
         "value": ""
       },
       {
         "component": "text",
         "valueType": "string",
-        "name": "loginButtonLabel",
+        "name": "login-button-label",
         "label": "login button label",
         "value": ""
       }
