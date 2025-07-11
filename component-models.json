@@ -334,6 +334,41 @@
         "name": "login-button-label",
         "label": "login button label",
         "value": ""
+      },
+      {
+        "component": "select",
+        "name": "login-buttonType",
+        "label": "Login button type",
+        "options": [
+          {
+            "name": "default",
+            "value": "input"
+          },
+          {
+            "name": "checkbox",
+            "value": "checkbox"
+          },
+          {
+            "name": "selectbox",
+            "value": "selectbox"
+          },
+          {
+            "name": "radio",
+            "value": "radio"
+          },
+          {
+            "name": "textarea",
+            "value": "textarea"
+          },
+          {
+            "name": "button",
+            "value": "button"
+          },
+          {
+            "name": "password",
+            "value": "password"
+          }
+        ]
       }
     ]
   }
