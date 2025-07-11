@@ -252,6 +252,33 @@
         "value": ""
       },
       {
+        "component": "select",
+        "name": "linkType",
+        "label": "Type",
+        "options": [
+          {
+            "name": "default",
+            "value": "input"
+          },
+          {
+            "name": "checkbox",
+            "value": "checkbox"
+          },
+          {
+            "name": "select",
+            "value": "select"
+          },  
+          {
+            "name": "radio",
+            "value": "radio"
+          }, 
+          {
+            "name": "textarea",
+            "value": "textarea"
+          }
+        ]
+      },
+      {
         "component": "text",
         "valueType": "string",
         "name": "password-label",
