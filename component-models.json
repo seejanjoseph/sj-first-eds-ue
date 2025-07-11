@@ -253,8 +253,8 @@
       },
       {
         "component": "select",
-        "name": "linkType",
-        "label": "Type",
+        "name": "username-type",
+        "label": "Username type",
         "options": [
           {
             "name": "default",
@@ -295,8 +295,8 @@
       },
       {
         "component": "select",
-        "name": "linkType",
-        "label": "Type",
+        "name": "password-type",
+        "label": "Password type",
         "options": [
           {
             "name": "default",
@@ -337,8 +337,8 @@
       },
       {
         "component": "select",
-        "name": "linkType",
-        "label": "Type",
+        "name": "login-button-type",
+        "label": "Login button type",
         "options": [
           {
             "name": "default",
