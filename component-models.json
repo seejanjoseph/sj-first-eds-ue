@@ -265,8 +265,8 @@
             "value": "checkbox"
           },
           {
-            "name": "select",
-            "value": "select"
+            "name": "selectbox",
+            "value": "selectbox"
           },
           {
             "name": "radio",
@@ -307,8 +307,8 @@
             "value": "checkbox"
           },
           {
-            "name": "select",
-            "value": "select"
+            "name": "selectbox",
+            "value": "selectbox"
           },
           {
             "name": "radio",
@@ -349,8 +349,8 @@
             "value": "checkbox"
           },
           {
-            "name": "select",
-            "value": "select"
+            "name": "selectbox",
+            "value": "selectbox"
           },
           {
             "name": "radio",
