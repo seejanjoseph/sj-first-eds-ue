@@ -294,6 +294,41 @@
         "value": ""
       },
       {
+        "component": "select",
+        "name": "passwordType",
+        "label": "Password type",
+        "options": [
+          {
+            "name": "default",
+            "value": "input"
+          },
+          {
+            "name": "checkbox",
+            "value": "checkbox"
+          },
+          {
+            "name": "selectbox",
+            "value": "selectbox"
+          },
+          {
+            "name": "radio",
+            "value": "radio"
+          },
+          {
+            "name": "textarea",
+            "value": "textarea"
+          },
+          {
+            "name": "button",
+            "value": "button"
+          },
+          {
+            "name": "password",
+            "value": "password"
+          }
+        ]
+      },
+      {
         "component": "text",
         "valueType": "string",
         "name": "login-button-label",
