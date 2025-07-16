@@ -4,7 +4,7 @@
     "/content/seejan-eds-ue/configuration:/.helix/config.json",
     "/content/seejan-eds-ue/metadata:/metadata.json",
     "/content/seejan-eds-ue/en/placeholders:/en/placeholders.json",
-    "/content/seejan-eds-ue/siteconfig/config:/siteconfig/config.json",
+    "/content/seejan-eds-ue/spreadsheet:/spreadsheet.json",
     "/content/seejan-eds-ue/siteconfig/spreadsheet:/siteconfig/spreadsheet.json"
   ],
   "includes": [
