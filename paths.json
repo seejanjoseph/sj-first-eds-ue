@@ -3,7 +3,8 @@
     "/content/seejan-eds-ue/:/",
     "/content/seejan-eds-ue/configuration:/.helix/config.json",
     "/content/seejan-eds-ue/metadata:/metadata.json",
-    "/content/seejan-eds-ue/en/placeholders:/en/placeholders.json"
+    "/content/seejan-eds-ue/en/placeholders:/en/placeholders.json",
+    "/content/seejan-eds-ue/siteconfig/configuration:/siteconfig/configuration.json"
   ],
   "includes": [
     "/content/seejan-eds-ue/"

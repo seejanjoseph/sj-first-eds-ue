@@ -9,8 +9,9 @@ import {
   waitForFirstImage,
   loadSection,
   loadSections,
-  loadCSS,
+  loadCSS
 } from './aem.js';
+import { fetchPlaceholders } from './utils.js';
 
 /**
  * Moves all the attributes from a given elmenet to another given element.
@@ -126,6 +127,7 @@ async function loadLazy(doc) {
 
   loadCSS(`${window.hlx.codeBasePath}/styles/lazy-styles.css`);
   loadFonts();
+  const { figureCaptionCategory } = await fetchPlaceholders('/en');
 }
 
 /**
